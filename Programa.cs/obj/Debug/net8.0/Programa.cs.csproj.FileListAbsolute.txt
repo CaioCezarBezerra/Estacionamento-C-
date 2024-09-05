@@ -1,0 +1,5 @@
+C:\Users\caioc\OneDrive\Área de Trabalho\Estacionamento-C-\Programa.cs\obj\Debug\net8.0\Programa.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioc\OneDrive\Área de Trabalho\Estacionamento-C-\Programa.cs\obj\Debug\net8.0\Programa.cs.AssemblyInfoInputs.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\Estacionamento-C-\Programa.cs\obj\Debug\net8.0\Programa.cs.AssemblyInfo.cs
+C:\Users\caioc\OneDrive\Área de Trabalho\Estacionamento-C-\Programa.cs\obj\Debug\net8.0\Programa.cs.csproj.CoreCompileInputs.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\Estacionamento-C-\Programa.cs\obj\Debug\net8.0\Programa.cs.sourcelink.json
